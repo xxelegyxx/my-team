@@ -1,6 +1,6 @@
 # my-team
 
-[I'm an inline-style link](https://www.google.com)
+[Link to video explaining functionality](https://www.google.com)
 
 ## :newspaper: Description 
 This project is a tool for managers to input their information and build their teams in an easy fashion. 

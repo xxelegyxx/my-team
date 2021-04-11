@@ -1,6 +1,6 @@
 # my-team
 
-[Link to video explaining functionality](https://www.google.com)
+[Link to video explaining functionality](https://drive.google.com/file/d/17ZDFvOMQXS80PIdQaJgdPnKkqy63klWN/view?usp=sharing)
 
 ## :newspaper: Description 
 This project is a tool for managers to input their information and build their teams in an easy fashion. 
